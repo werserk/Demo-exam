@@ -7,7 +7,7 @@ of [Demonstration exam for students of additional advanced general developmental
 
 ![Screen](https://drive.google.com/uc?export=view&id=1ZXicRJCqhLwFvDsQMaVdQmi9xbviHE53)
 ## Setup
-
+Install requirements:
 ```
 pip install -r requirements.txt
 ```
